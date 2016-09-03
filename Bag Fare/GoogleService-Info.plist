@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>262539590108-nfj80v64k1o0lpa9rhhkjd70uccqa203.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.262539590108-nfj80v64k1o0lpa9rhhkjd70uccqa203</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCRDAuAThs7zx9lAln_Z0RSU7UWeyZoHlU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>262539590108</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.edgedesigns.Bag-Fare</string>
+	<key>PROJECT_ID</key>
+	<string>baggage-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>baggage-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:262539590108:ios:20d68e1576d74b06</string>
+	<key>DATABASE_URL</key>
+	<string>https://baggage-app.firebaseio.com</string>
+</dict>
+</plist>

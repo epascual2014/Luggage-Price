@@ -1,0 +1,6 @@
+framework module Pods_Bag_Fare {
+  umbrella header "Pods-Bag Fare-umbrella.h"
+
+  export *
+  module * { export * }
+}

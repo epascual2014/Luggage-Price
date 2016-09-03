@@ -11,7 +11,13 @@ import UIKit
 
 class MainViewController: UIViewController {
 
+    // IBOutlets
+    
+    
     // Add Airline Dictionary
+    var airlinesArray = [String]()
+    
+    
     // Add number of bags
     // Add Size of bags
     // Button
@@ -23,4 +29,19 @@ class MainViewController: UIViewController {
 
     }
 
+}
+
+extension MainViewController: UITableViewDelegate, UITableViewDataSource {
+    
+    func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
+        <#code#>
+    }
+    
+    func numberOfSectionsInTableView(tableView: UITableView) -> Int {
+        return 1
+    }
+    
+    func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return 1
+    }
 }
